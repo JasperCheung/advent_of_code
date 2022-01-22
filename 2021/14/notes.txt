@@ -1,0 +1,7 @@
+NBBBCNCCNBBNBNBBCHBHHBCHB
+{'NC': 1, 'CN': 1, 'NB': 1, 'BC': 1, 'CH': 1, 'HB': 1}
+
+
+
+NBCCNBBBCBHCB
+{'NC': 1, 'CN': 1, 'NB': 1, 'BC': 1, 'CH': 1, 'HB': 1}
